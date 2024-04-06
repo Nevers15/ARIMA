@@ -7,7 +7,7 @@
 
 ## Business Objectives:
 
-All the data in the project is anonymized and does not reflect real figures. The project's objective was to develop an algorithm for predicting changes in the payroll fund at the TOAZ enterprise. The training data consisted of a complete time series from 2014 to 2024.
+All the data in the project is anonymized and does not reflect real figures. The project's objective was to develop an algorithm for predicting changes in the payroll fund at the "TOAZ" enterprise. The training data consisted of a complete time series from 2014 to 2024.
 
 ### Objectives:
 
