@@ -18,7 +18,7 @@ All the data in the project is anonymized and does not reflect real figures. The
 
 ## Research Conclusion:
 
-Upon testing the algorithm's performance, the data from the first two months coincide with high accuracy, and the control result of the third month shows a specific accuracy of 96%. Thus, using the model, it is possible to predict results for three months ahead with high probability. Further validation will reveal how far and with what accuracy the algorithm predicts results.
+Upon testing the algorithm's performance, the data from the first two months coincide with high accuracy, and the control result of the third month shows a specific accuracy of 96%, for the April i get around 82% of accuracy. Thus, using the model, it is possible to predict results for four months ahead with high probability. Further validation will reveal how far and with what accuracy the algorithm predicts results.
 
 Next, the image shows the constructed model, where the blue line represents the known data, and the green highlights indicate the predictions:
 
